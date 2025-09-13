@@ -21,7 +21,7 @@ It provides real-time patient management, medical records, and role-based dashbo
 ### 🔐 Login  
 <!-- Centered first image -->
 <p align="center">
-  <img src="/assets/Screenshot from 2025-09-13 09-31-10.png" width="400"/>
+  <img src="/assets/Screenshot from 2025-09-13 09-31-10.png" width="800"/>
 </p>
 
 <!-- Two images side by side -->
