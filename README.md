@@ -21,12 +21,12 @@ It provides real-time patient management, medical records, and role-based dashbo
 ## 📸 Screenshots  
 
 ### 🔐 Login  
-<img src="/assets/login1.png" width="400"/> <img src="/assets/login2.png" width="400"/>  
-
+<img src="/assets/Screenshot from 2025-09-13 09-31-27.png" width="400"/> <img src="/assets/Screenshot from 2025-09-13 09-35-06.png" width="400"/>  
+<img src="/assets/Screenshot from 2025-09-13 09-31-10.png" width="400"/>
 ---
 
 ### 📊 User Dashboard  
-<img src="/assets/dashboard1.png" width="400"/> <img src="/assets/dashboard2.png" width="400"/>  
+<img src="/assets/Screenshot from 2025-09-13 09-32-38.png" width="400"/> <img src="/assets/dashboard2.png" width="400"/>  
 <img src="/assets/dashboard3.png" width="400"/> <img src="/assets/dashboard4.png" width="400"/>  
 <img src="/assets/dashboard5.png" width="400"/> <img src="/assets/dashboard6.png" width="400"/>  
 
@@ -53,7 +53,7 @@ It provides real-time patient management, medical records, and role-based dashbo
 
 👨‍💻 Author
 
-Developed by [Your Name] 🚀
+Developed by NGANGO YVES 🚀 and designed by DJIALA MELI
 For contributions, feel free to open a pull request.
 
 ### 📬 Contact
