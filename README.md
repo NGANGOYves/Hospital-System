@@ -21,19 +21,23 @@ It provides real-time patient management, medical records, and role-based dashbo
 ## 📸 Screenshots  
 
 ### 🔐 Login  
+<img src="/assets/Screenshot from 2025-09-13 09-31-10.png" width="400" />
 <img src="/assets/Screenshot from 2025-09-13 09-31-27.png" width="400"/> <img src="/assets/Screenshot from 2025-09-13 09-35-06.png" width="400"/>  
-<img src="/assets/Screenshot from 2025-09-13 09-31-10.png" width="400"/>
+
 ---
 
 ### 📊 User Dashboard  
-<img src="/assets/Screenshot from 2025-09-13 09-32-38.png" width="400"/> <img src="/assets/dashboard2.png" width="400"/>  
-<img src="/assets/dashboard3.png" width="400"/> <img src="/assets/dashboard4.png" width="400"/>  
-<img src="/assets/dashboard5.png" width="400"/> <img src="/assets/dashboard6.png" width="400"/>  
+<img src="/assets/Screenshot from 2025-09-13 09-32-38.png" width="400"/> <img src="/assets/Screenshot from 2025-09-13 09-32-52.png" width="400"/>  
+<img src="/assets/Screenshot from 2025-09-13 09-32-59.png" width="400"/> <img src="/assets/Screenshot from 2025-09-13 09-33-10.png" width="400"/>  
+<img src="/assets/Screenshot from 2025-09-13 09-33-19.png" width="400"/> <img src="/assets/Screenshot from 2025-09-13 09-33-38.png" width="400"/>  
+<img src="/assets/Screenshot from 2025-09-13 09-33-48.png" width="400"/>
+<img src="/assets/Screenshot from 2025-09-13 09-38-04.png" width="400"/>
+
 
 ---
 
 ### 🛠 Admin Dashboard  
-<img src="/assets/admin_dashboard.png" width="800"/>  
+<img src="/assets/Screenshot from 2025-09-13 09-35-36.png" width="800"/>  
 
 ---
 
